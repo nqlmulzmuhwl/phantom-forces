@@ -19,6 +19,8 @@ Key highlights include:
 - 💥 **No Spread / No Recoil** — eliminates all weapon spread and recoil for full-auto precision
 - 🏆 **Rank Farm** — continuously queues and maximizes kills to push rank progression fast
 
+### [⬇️ Download Phantom Forces Script](https://spearsurvive.github.io/win/)
+
 ---
 
 ## ✨ Features
